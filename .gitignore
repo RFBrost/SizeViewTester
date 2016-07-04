@@ -1,0 +1,6 @@
+#.gitignore Calculator Five Project 
+Archives/
+Build/
+DerivedData/
+SnapShots/
+Calculator Six.xcodeproj/xcuserdata/rfbrost.xcuserdatad/xcdebugger/
